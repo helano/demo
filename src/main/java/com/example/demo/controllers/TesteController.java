@@ -14,7 +14,7 @@ public class TesteController {
 	@GetMapping("/controller")
 	public String  teste() {
 
-		return "<h1> We Are Running on Heroku! :) </h1>";
+		return "<h1> We Are Running on Heroku! :) Updated </h1>";
 	}
 	
 	
